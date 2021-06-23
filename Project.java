@@ -1,6 +1,6 @@
 // SE L2T07
 
-// Class declaration - Blueprint
+// Class declaration - Blueprin
 public class Project {
 
 	// Properties, Attributes
